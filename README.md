@@ -12,7 +12,7 @@ venv\Scripts\activate
 
 ## Bibliotheken installieren
 ```
-pip install libs.txt
+pip install -r libs.txt
 ```
 
 # Programm ausführen
